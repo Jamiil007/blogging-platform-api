@@ -27,6 +27,7 @@ A lightweight Flask API for managing users, posts, and comments with SQLite data
 
 ## Project Structure
 
+````bash
 
 blogging-platform-api
 │
@@ -45,7 +46,7 @@ blogging-platform-api
 ├── instance # Local database
 │ └── blog.db
 └── pycache # Python cache
-
+````
 
 
 ---
